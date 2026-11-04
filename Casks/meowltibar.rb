@@ -1,6 +1,6 @@
 cask "meowltibar" do
-  version "0.1.1"
-  sha256 "0298f326e88dce0421aa499d7811946de9d43b6e540a2aa5081927354047b007"
+  version "0.1.2"
+  sha256 "827dd029174eff7add933373b64245b43a576a0c66a81720e8d2759b0512d2ff"
 
   url "https://github.com/jiyoung-e/meowlti/releases/download/v#{version}/MeowltiBar-#{version}.zip"
   name "MeowltiBar"

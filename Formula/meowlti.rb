@@ -1,8 +1,8 @@
 class Meowlti < Formula
   desc "Run multiple Claude and Codex accounts side by side on one Mac"
   homepage "https://github.com/jiyoung-e/meowlti"
-  url "https://github.com/jiyoung-e/meowlti/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "d26cfdb47ec89666d7982fca0ca61d82b14a84f1b2d7e3a81c100a9298bb0b01"
+  url "https://github.com/jiyoung-e/meowlti/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "355a55e31885c831a245129c7c32ca0db1351cb95b5454ff87789836bcbca1f2"
   license "PolyForm-Noncommercial-1.0.0"
 
   depends_on :macos
